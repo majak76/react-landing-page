@@ -1,0 +1,22 @@
+.promoSection {
+  background-color: #87cefa;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: blue;
+  gap: 32px;
+  padding: 16px 0;
+  a {
+    color: white;
+    font_weight: 600;
+    font-size: 0, 875rem;
+  }
+}
+.navigationBar {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  background-color: white;
+  gap: 32px;
+}
